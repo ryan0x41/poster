@@ -4,3 +4,6 @@
 [submodule "poster-web"]
 	path = poster-web
 	url = https://github.com/ryan0x41/poster-web.git
+[submodule "poster-app"]
+	path = poster-app
+	url = https://github.com/ryan0x41/poster-app.git
