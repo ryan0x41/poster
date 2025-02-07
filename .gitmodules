@@ -1,3 +1,6 @@
 [submodule "poster-api"]
 	path = poster-api
 	url = https://github.com/ryan0x41/poster-api.git
+[submodule "poster-web"]
+	path = poster-web
+	url = https://github.com/ryan0x41/poster-web.git
